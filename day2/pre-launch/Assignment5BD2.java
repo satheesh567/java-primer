@@ -17,6 +17,6 @@ public class Assignment5BD2
 	         }
 	         System.out.println();
 	     }
-		System.out.println("Hello World");
+
 	}
 }
